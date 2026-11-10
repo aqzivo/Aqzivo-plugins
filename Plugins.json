@@ -1,9 +1,9 @@
 [
   {
     "name": "DevTools Plugin",
-    "desc": "Pluginlarni boshqarish imkonini beradi",
+    "desc": "MCPE uchun foydali devtools plagin",
     "version": "0.14.3 / 0.15.10",
     "image": "",
-    "download": "https://github.com/aqzivo/Aqzivo-plugin/raw/main/devtools.zip"
+    "download": "https://github.com/aqzivo/Aqzivo-plugins/raw/main/devtools.zip"
   }
 ]
